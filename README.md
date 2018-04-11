@@ -1,0 +1,2 @@
+# gradle_multi_projects
+使用gradle构建多项目工程
